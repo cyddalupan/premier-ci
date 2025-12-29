@@ -1,0 +1,197 @@
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $username in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 57
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $password in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 57
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $averageScore in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 92
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 96
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 97
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 98
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 99
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $top_scores in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 109
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 109
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $lowest_scores in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 120
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 120
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:41:23 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined variable $averageScore in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 92
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 96
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 97
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 98
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 99
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:43:06 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined variable $averageScore in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 92
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 96
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 97
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 98
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 99
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:45:41 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined variable $averageScore in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 92
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 96
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 97
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 98
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 99
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:46:20 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined array key 4 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 92
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 96
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined array key 1 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 97
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined array key 2 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 98
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined array key 3 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 99
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:46:33 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Array to string conversion in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 92
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined array key 4 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 93
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 97
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined array key 1 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 98
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined array key 2 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 99
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined array key 3 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 100
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 112
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 112
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 112
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 123
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 123
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 123
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:47:52 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Array to string conversion in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 92
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined array key 4 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 93
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 97
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined array key 1 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 98
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined array key 2 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 99
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined array key 3 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 100
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 112
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 112
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 112
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 123
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 123
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 123
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:48:54 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined array key 4 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 93
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined array key 0 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 97
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined array key 1 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 98
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined array key 2 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 99
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined array key 3 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 100
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 112
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 112
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 112
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 123
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 123
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 123
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:49:09 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 140
+[29-Mar-2025 00:50:29 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:50:29 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:50:29 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 111
+[29-Mar-2025 00:50:29 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:50:29 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:50:29 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 122
+[29-Mar-2025 00:50:29 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:50:29 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:50:29 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:50:29 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 139
+[29-Mar-2025 00:52:51 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 166
+[29-Mar-2025 00:52:51 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 166
+[29-Mar-2025 00:52:51 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 166
+[29-Mar-2025 00:52:51 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 176
+[29-Mar-2025 00:52:51 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 176
+[29-Mar-2025 00:52:51 America/Chicago] PHP Warning:  Undefined array key "name" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 176
+[29-Mar-2025 00:52:51 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 00:52:51 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 00:52:51 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 00:52:51 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 00:53:34 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 00:53:34 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 00:53:34 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 00:53:34 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 00:56:09 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 00:56:09 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 00:56:09 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 00:56:09 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 192
+[29-Mar-2025 01:44:03 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 193
+[29-Mar-2025 01:44:03 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 193
+[29-Mar-2025 01:44:03 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 193
+[29-Mar-2025 01:44:03 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 193
+[29-Mar-2025 01:44:30 America/Chicago] PHP Warning:  Undefined variable $score_0_25 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 193
+[29-Mar-2025 01:44:30 America/Chicago] PHP Warning:  Undefined variable $score_25_50 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 193
+[29-Mar-2025 01:44:30 America/Chicago] PHP Warning:  Undefined variable $score_50_75 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 193
+[29-Mar-2025 01:44:30 America/Chicago] PHP Warning:  Undefined variable $score_75_100 in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 193
+[31-Mar-2025 03:07:20 America/Chicago] PHP Warning:  require(model.php): Failed to open stream: No such file or directory in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 3
+[31-Mar-2025 03:07:20 America/Chicago] PHP Fatal error:  Uncaught Error: Failed opening required 'model.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/ztbsytte/public_html/academy/cyd/news/news.php:3
+Stack trace:
+#0 {main}
+  thrown in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 3
+[31-Mar-2025 03:10:22 America/Chicago] PHP Warning:  Undefined variable $quizData in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 36
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
+[31-Mar-2025 03:45:02 America/Chicago] PHP Warning:  Undefined array key "q_course_id" in /home1/ztbsytte/public_html/academy/cyd/news/news.php on line 114
